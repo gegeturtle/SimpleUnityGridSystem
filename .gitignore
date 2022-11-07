@@ -61,5 +61,4 @@ crashlytics-build.properties
 
 #UserSettings
 UserSettings/
-Packages/
 *.vsconfig
